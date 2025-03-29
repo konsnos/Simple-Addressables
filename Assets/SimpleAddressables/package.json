@@ -1,0 +1,19 @@
+{
+  "name": "com.konsnos.simpleaddressables",
+  "version": "1.0.0",
+  "displayName": "Simple Addressables",
+  "description": "A simple way to handle addressables",
+  "unity": "6000.0",
+  "unityRelease": "42f1",
+  "dependencies": {
+    "com.unity.addressables": "2.3.16"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "author": {
+    "name": "Konstantinos Egkarchos",
+    "email": "konsnosl@gmail.com",
+    "url": "https://github.com/konsnos"
+  }
+}
